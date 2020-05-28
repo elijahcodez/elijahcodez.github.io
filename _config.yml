@@ -1,11 +1,11 @@
 # Site settings
 author: Elijah Kirschen
-title: 
+title: The Road to Code
 header-img: img/home-bg.png
 email: ekirschen584@gmail.com
 copyright_name: Elijah Kirschen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to becoming a software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: elijahcodez
 github_username:  elijahcodez
