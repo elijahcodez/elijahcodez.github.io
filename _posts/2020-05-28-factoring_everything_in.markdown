@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Factoring Everything In"
-date:       2020-05-28 21:07:34 +0000
+date:       2020-05-28 17:07:35 -0400
 permalink:  factoring_everything_in
 ---
 
